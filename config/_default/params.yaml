@@ -21,9 +21,9 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: yeolim.yoon@yonsei.ac.kr
-phone: 010 5520 3260
+phone: 82 10 5520 3260
 address:
-  street: Yonseiro 50
+  street: Yonsei-ro 50
   city: Seoul
   region: Seoul
   postcode: '03722'
@@ -35,7 +35,7 @@ coordinates:
 directions: Floor 3
 office_hours:
   - 'Monday 9:00 to 18:00'
-  - 'Wednesday 09:00 to 18:00'
+  - 'Wednesday 11:00 to 18:00'
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
